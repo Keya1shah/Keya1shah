@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keya1shah
-- 👀 I’m interested in ...web development 
+- 👀 I’m interested in ...app and web development 
 - 🌱 I’m currently learning ...c 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
